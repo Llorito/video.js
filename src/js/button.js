@@ -4,7 +4,9 @@
 import ClickableComponent from './clickable-component.js';
 import Component from './component';
 import log from './utils/log.js';
-import {assign} from './utils/obj';
+import {
+  assign
+} from './utils/obj';
 import keycode from 'keycode';
 
 /**
